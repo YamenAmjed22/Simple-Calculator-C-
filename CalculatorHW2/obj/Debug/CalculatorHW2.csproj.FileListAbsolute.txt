@@ -1,0 +1,7 @@
+C:\Users\acer\OneDrive\Desktop\SKYSOFT-BACKEND\OOP\HW2\CalculatorHW2\CalculatorHW2\bin\Debug\CalculatorHW2.exe.config
+C:\Users\acer\OneDrive\Desktop\SKYSOFT-BACKEND\OOP\HW2\CalculatorHW2\CalculatorHW2\bin\Debug\CalculatorHW2.exe
+C:\Users\acer\OneDrive\Desktop\SKYSOFT-BACKEND\OOP\HW2\CalculatorHW2\CalculatorHW2\bin\Debug\CalculatorHW2.pdb
+C:\Users\acer\OneDrive\Desktop\SKYSOFT-BACKEND\OOP\HW2\CalculatorHW2\CalculatorHW2\obj\Debug\CalculatorHW2.csproj.AssemblyReference.cache
+C:\Users\acer\OneDrive\Desktop\SKYSOFT-BACKEND\OOP\HW2\CalculatorHW2\CalculatorHW2\obj\Debug\CalculatorHW2.csproj.CoreCompileInputs.cache
+C:\Users\acer\OneDrive\Desktop\SKYSOFT-BACKEND\OOP\HW2\CalculatorHW2\CalculatorHW2\obj\Debug\CalculatorHW2.exe
+C:\Users\acer\OneDrive\Desktop\SKYSOFT-BACKEND\OOP\HW2\CalculatorHW2\CalculatorHW2\obj\Debug\CalculatorHW2.pdb
